@@ -1,0 +1,6 @@
+framework module Pods_EG_Stocks {
+  umbrella header "Pods-EG Stocks-umbrella.h"
+
+  export *
+  module * { export * }
+}
